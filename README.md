@@ -2,4 +2,5 @@
 # hogehoge
 # test
 GitHub実践入門
-feature-Aブランチ
+- feature-A
+- fix-B
