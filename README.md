@@ -4,3 +4,4 @@
 GitHub実践入門
 - feature-A
 - fix-B
+- feature-C
